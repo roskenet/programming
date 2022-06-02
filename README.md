@@ -1,2 +1,2 @@
-# programming
-Thoughts and snippets
+# Programming
+Thoughts and Code
